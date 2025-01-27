@@ -1,4 +1,3 @@
-Creating a README file for your Java project is an excellent way to document its purpose, usage, and other pertinent information. Below is a template for a README file that you can customize based on your `TelephoneDirectory.java` code. This example includes typical sections like project title, description, installation instructions, usage, and license information.
 
 ### README.md Template
 
