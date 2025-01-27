@@ -20,11 +20,6 @@ Telephone Directory is a Java application that allows users to manage their tele
 - Java Development Kit (JDK) version 8 or higher installed on your machine.
 - A text editor or an Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/TelephoneDirectory.git
    ```
 
 2. Navigate to the project directory:
@@ -57,9 +52,6 @@ Telephone Directory is a Java application that allows users to manage their tele
 
 2. To view all contacts, select the appropriate menu option and the list will be displayed.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
